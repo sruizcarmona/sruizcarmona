@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡ I’m currently working on protein structure, genomic analysis, sports cardiology and other stuff.
-- 💬 Please visit [sergio.ruiz.com](sergio-ruiz.com) to know more!
+- 💬 Please visit [sergio-ruiz.com](sergio-ruiz.com) to know more!
 
 <!--
 **sruizcarmona/sruizcarmona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

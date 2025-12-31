@@ -28,13 +28,17 @@ jobs:
           user: sruizcarmona
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Australia/Melbourne
+          config_timezone: Europe/Paris
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
           plugin_achievements_limit: 4
-          plugin_achievements_threshold: C
-          # plugin_achievements_only: 
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_threshold: X
+          # plugin_achievements_threshold: C
+          # plugin_achievements_only: stargazer
           # plugin_achievements_ignored: stargazer, forker, member, follower, explorer, chatter, automator, infographile, sponsor, deployer, gister, influencer, inspirer
           # plugin_notable: yes
           # plugin_notable_from: organization

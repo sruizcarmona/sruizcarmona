@@ -1,0 +1,163 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/sruizcarmona/sruizcarmona.github.io/commit/a49dc828c5c2ca0e0be0ddc9cd82904acb6d2ece\"><strong>a</strong>49dc828c5c2ca0e0be0ddc9cd82904acb6d2ece</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/sruizcarmona/sruizcarmona.github.io/commit/ab382163b5378a64af7d79086fdfabe7bb407dd9\"><strong>ab</strong>382163b5378a64af7d79086fdfabe7bb407dd9</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sruizcarmona/sruizcarmona.github.io/commit/5f04de1e15a289409bab126c7352df2d94732e10\">5f04de1</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/sruizcarmona/surfing-fizz/commit/205749f05115ca33c65f3194cafecbc74afcad11\">205749f05115ca33c65f3194<strong>cafe</strong>cbc74afcad11</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sruizcarmona/polar-flow-export/commit/2bc6c34cd0ea311b26a9d792d28f34bee3677cfb\">2bc6c34</a>: chore: Add .DS_Store to .gitignore",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sruizcarmona/hfpef-fitoxy/commit/bac3a30744e21989fe4cc48423e51f717a739268\">bac3a30</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 385 times)\n2. covidplots (used 272 times)\n3. auto (used 150 times)\n4. updated (used 68 times)\n5. add (used 66 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sruizcarmona/trainingpeaks/commit/9ad1bd9fad22ac08082f2481519370c8316b996d\">9ad1bd9</a>: fixed sport in maxhr plot\n- <a href=\"https://github.com/sruizcarmona/trainingpeaks/commit/d728393dc3c320ec84d80b1eb82054a60035de13\">d728393</a>: fixed sport in maxhr plot",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sruizcarmona/trainingpeaks/commit/05d9bc131c978011f8a365b7fd4e829d1b12c6c0\">05d9bc1</a>: fix calculte maxHR if_else error\n- <a href=\"https://github.com/sruizcarmona/trainingpeaks/commit/bee26942f7fd7054b045e98ffe3e2cb54a6535a7\">bee2694</a>: fix calculte maxHR if_else error\n- <a href=\"https://github.com/sruizcarmona/trainingpeaks/commit/1d0d9d95cd0a9fb0ffc19dd290a8eecf680c5894\">1d0d9d9</a>: fixed duplicates device_brand_id ifelse and fixed sel.dirs definition to get all files",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sruizcarmona/epuRate/commit/37050f8ba1d7443468b4945961beaa6aea0ef647\">37050f8</a>: fixed footer\n- <a href=\"https://github.com/sruizcarmona/epuRate/commit/11aca1fdaf3c5e6a1c13938e829401342ec309f4\">11aca1f</a>: fixed footer\n- <a href=\"https://github.com/sruizcarmona/epuRate/commit/05d22f053a4a878c6feb98d8b4a1288ac9bd786f\">05d22f0</a>: fixed footer\n- <a href=\"https://github.com/sruizcarmona/epuRate/commit/c8793a6270d4c32647ec5f447fada3cf393eeb12\">c8793a6</a>: fixed footer",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sruizcarmona/trainingpeaks/commit/e5d082349d100aec78341b52e37cb33a84fee19a\">e5d0823</a>\n- <a href=\"https://github.com/sruizcarmona/trainingpeaks/commit/1832d64ab8720df58c59e23ceda61484b5bfc9a1\">1832d64</a>\n- <a href=\"https://github.com/sruizcarmona/trainingpeaks/commit/53f71937eb4ebaada603283fe572cdaa85337566\">53f7193</a>\n- <a href=\"https://github.com/sruizcarmona/fitoxy-cteph/commit/ca366c5a9127c92ac5842b77c91fffd983306e76\">ca366c5</a>\n- <a href=\"https://github.com/sruizcarmona/sruizcarmona.github.io/commit/b400a65fb556d93d5f94d12a98ef62796da8de0a\">b400a65</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sruizcarmona/surfing-fizz/commit/2eeb41a742f536a5545588f58024de3c841efd75\">2eeb41a</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sruizcarmona/surfing-fizz/commit/2eeb41a742f536a5545588f58024de3c841efd75\">2eeb41a</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sruizcarmona/sruizcarmona.github.io/commit/0f2f5d996269dd4cd026657a9eb3bef19ab18a31\">0f2f5d9</a>\n- <a href=\"https://github.com/sruizcarmona/sruizcarmona.github.io/commit/1b16d96a0acd83737af30e12936db009630c707c\">1b16d96</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sruizcarmona/sruizcarmona.github.io/commit/42a893d75996b8e7efbca258bd93542977c76aa5\">42a893d</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sruizcarmona/surfingpolar/commit/37552928c42ce945afa492c2536db9c3e1f7132f\">3755292</a>\n- <a href=\"https://github.com/sruizcarmona/polar-flow-export/commit/ddaf5d84eea680409063db3d8d1287fc8ecf9b5c\">ddaf5d8</a>\n- <a href=\"https://github.com/sruizcarmona/perceive-polar/commit/4b47e39e4185d5900bb1110c0d8dc4463175e133\">4b47e39</a>\n- <a href=\"https://github.com/sruizcarmona/perceive-polar/commit/620d6800de6195c2bf597ee8c651a9007081c967\">620d680</a>\n- <a href=\"https://github.com/sruizcarmona/perceive-polar/commit/8da0cb615fdd50a7deea04f76c15cb0b6255c571\">8da0cb6</a>\n- <a href=\"https://github.com/sruizcarmona/polar-flow-export/commit/6002245d48f97251c250c52ae0008d1d474f40ca\">6002245</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sruizcarmona/sruizcarmona/commit/a072197ee96ff3c72d85b20469579d3a3c530a4e\">a072197</a>\n- <a href=\"https://github.com/sruizcarmona/sruizcarmona/commit/04c5ea76a732010cf062f43db12f5bd8ae9e93c9\">04c5ea7</a>\n- <a href=\"https://github.com/sruizcarmona/sruizcarmona/commit/acad0e364b4ae803a161049217957e5762e44d45\">acad0e3</a>\n- <a href=\"https://github.com/sruizcarmona/sruizcarmona/commit/f6200dbc96dc7e560382e21dad4e3466c75f32cc\">f6200db</a>\n- <a href=\"https://github.com/sruizcarmona/fit/commit/3d531b1f30a185892163f422b0b6253b839f3811\">3d531b1</a>\n- <a href=\"https://github.com/sruizcarmona/trainingpeaks/commit/b01d1b4e8411d3bb41e468385086703419f81f33\">b01d1b4</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sruizcarmona/surfing-fizz/commit/93fb05d702a6795af332192887b7200e95bd9464\">93fb05d</a>\n- <a href=\"https://github.com/sruizcarmona/surfing-fizz/commit/c522ac912e05efdfe35d6408a9813aa0174ac737\">c522ac9</a>\n- <a href=\"https://github.com/sruizcarmona/surfing-fizz/commit/2eeb41a742f536a5545588f58024de3c841efd75\">2eeb41a</a>\n- <a href=\"https://github.com/sruizcarmona/sruizcarmona.github.io/commit/a2899644acd44ba966cf61e52eb5e036a92bb566\">a289964</a>\n- <a href=\"https://github.com/sruizcarmona/polar-flow-export/commit/75e54e61972136244f59c42d7f6cfb5f428368e1\">75e54e6</a>\n- <a href=\"https://github.com/sruizcarmona/sruizcarmona.github.io/commit/46157400bdcc1478e296dd9b4119cd2d8dc71606\">4615740</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sruizcarmona/trainingpeaks/commit/32ce9cedeba014bf021a4fa157fdb8ae58d74bec\">32ce9ce</a>\n- <a href=\"https://github.com/sruizcarmona/sruizcarmona.github.io/commit/993fe95046d38f5bfce12e83f6eba2a8053774af\">993fe95</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
